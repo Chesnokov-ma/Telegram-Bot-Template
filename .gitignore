@@ -1,0 +1,4 @@
+*.exe
+*.db
+
+__pycache__
