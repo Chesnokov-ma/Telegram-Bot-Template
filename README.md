@@ -4,7 +4,9 @@
 ####Подготовка
 
 `python -r venv venv`
+
 `venv\Scripts\Activate`
+
 `pip install aiogram`
 
 ####Запуск
